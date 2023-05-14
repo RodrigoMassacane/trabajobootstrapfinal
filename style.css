@@ -1,0 +1,73 @@
+.hora{
+    background-image: url(https://fondosmil.com/fondo/20426.jpg) ;
+}
+
+
+.tickets{
+    background-image: url(https://wallpaperaccess.com/full/4484586.jpg);
+}
+
+.cuerpo {
+    
+}
+
+
+.js {
+    background-color: #FAC22C ;
+    color: black;
+    padding: 2px 2px;
+    border: 0px;
+}
+
+.react {
+    background-color: #1FEBF5 ;
+    color: black;
+    padding: 2px 2px;
+    border: 0px;
+}
+
+
+.negocios {
+    background-color:#5B5E5E ;
+    color: black;
+    padding: 2px 2px;
+    border: 0px;
+
+}
+
+.startups {
+    background-color: #F30B0E;
+    color: black;
+    padding: 2px 2px;
+    border: 0px;
+
+}
+
+.tick{
+    background-color: darkorange;
+
+    
+    align-items: center;
+
+    
+}
+
+.carousel-caption {
+    bottom: 8rem;
+    z-index: 10;
+    top:30%
+}
+
+.carousel-item {
+    height: rem;
+}
+
+p{
+    font-size: 140%;
+}
+
+.linkk {
+color: green;
+
+}
+
